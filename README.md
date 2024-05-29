@@ -108,7 +108,9 @@ Technologies used in the project:
 *   HTML
 *   CSS
 *   JavaScript
+<h2>🛡️ License:</h2>
 
+This project is licensed under the MIT License
 <h2>💖Like my work?</h2>
 
 <p>Follow me on <a href="https://github.com/diwanshu2004">Github</a> <a href="https://www.linkedin.com/in/diwanshukumar2004/">LinkedIn</a> <a href="https://www.facebook.com/diwanshu.kumar.04/">Facebook</a><a href="https://www.instagram.com/diwanshu_hr/"> Instagram</a></p>
