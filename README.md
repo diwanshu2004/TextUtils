@@ -1,7 +1,37 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">🗒️ TextUtils</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"><img src="https://socialify.git.ci/diwanshu2004/TextUtils/image?forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Overlapping%20Hexagons&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
+<p id="description">This is a text editor app used to edit modify convert text to speech and do multiple tasks and operations on the text provided by the viewer.</p>
+
+<h2>🚀 Demo</h2>
+
+[http://textutils-diwanshukumar.vercel.app](http://textutils-diwanshukumar.vercel.app)
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://i.ibb.co/3mvT4qk/Screenshot-2024-05-29-at-6-41-46-PM.png" alt="project-screenshot" width="950" height="550/">
+
+<img src="https://i.ibb.co/ZzPfRy0/Screenshot-2024-05-29-at-6-36-58-PM.png" alt="project-screenshot" width="950" height="550/">
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Convert to Uppercase
+*   Convert to Lowercase
+*   Convert to Inverse
+*   Count Vowels
+*   Count Consonants
+*   Replace Text
+*   Remove Extra Space
+*   Convert to Speech
+*   Cancel Speech
+*   Clear Text
+
+<h2>🛠️ Installation Steps:</h2>
 ## Available Scripts
 
 In the project directory, you can run:
@@ -64,8 +94,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<h2>🍰 Contribution Guidelines:</h2>
 
-### `npm run build` fails to minify
+Please Contribute using GitHub Flow. Create a branch add commits and open a pull request.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# TextUtils
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   ReactJS
+*   HTML
+*   CSS
+*   JavaScript
+
+<h2>💖Like my work?</h2>
+
+<p>Follow me on <a href="https://github.com/diwanshu2004">Github</a> <a href="https://www.linkedin.com/in/diwanshukumar2004/">LinkedIn</a> <a href="https://www.facebook.com/diwanshu.kumar.04/">Facebook</a><a href="https://www.instagram.com/diwanshu_hr/"> Instagram</a></p>
